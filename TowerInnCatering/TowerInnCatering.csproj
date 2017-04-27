@@ -14,4 +14,11 @@
   </ItemGroup>
 
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Views\Menu\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Views\Home\Menu.html" />
+  </ItemGroup>
 </Project>

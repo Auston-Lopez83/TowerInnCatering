@@ -16,7 +16,7 @@ namespace TowerInnCatering.Controllers
                 new MenuItem {Name="Fish", Price=15}
 
             };
-            return View(array);
+            return View(model);
         }
     }
 }

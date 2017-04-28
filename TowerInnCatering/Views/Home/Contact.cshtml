@@ -1,17 +1,52 @@
 ﻿@{
-    ViewData["Title"] = "Contact";
+    ViewData["Title"] = "Contact us for your next Event";
 }
 <h2>@ViewData["Title"].</h2>
-<h3>@ViewData["Message"]</h3>
+<!-- web form for -->
+<div class="container">
+  <form>
+    <div class="form-group row">
+      <label for="inputName" class="col-sm-2 col-form-label">Name</label>
+      <div class="col-sm-10">
+        <input type="string" class="form-control" id="inputName" placeholder="Full Name Please">
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
+      <div class="col-sm-10">
+        <input type="Email" class="form-control" id="inputEmail" placeholder="Email@example.com">
+      </div>
+		</div>
+		<div class="form-group row">
+      <label for="inputPhone" class="col-sm-2 col-form-label">Phone</label>
+      <div class="col-sm-10">
+        <input type="Phone" class="form-control" id="inputPhone" placeholder="XXX.XXX.XXXX">
+      </div>
+			</div>
+		<div class="form-group row">
+      <label for="inputEventDate" class="col-sm-2 col-form-label">Event Date</label>
+      <div class="col-sm-10">
+        <input type="Date" class="form-control" id="inputEventDate" placeholder="MM/DD/YYYY">
+      </div>
+		
+    </div>
+   <div class="form-group row">
+      <div class="offset-sm-2 col-sm-10">
+        <button type="submit" class="btn btn-primary">Sign in</button>
+      </div>
+    </div>
+  </form>
+</div>
+
 
 <address>
-    One Microsoft Way<br />
-    Redmond, WA 98052-6399<br />
+    701 W. Cross St<br />
+    Ypsilanti, MI 48197<br />
     <abbr title="Phone">P:</abbr>
-    425.555.0100
+    734.487.4000
 </address>
 
 <address>
-    <strong>Support:</strong> <a href="mailto:Support@example.com">Support@example.com</a><br />
+    <strong>Catering:</strong> <a href="mailto:Catering@towerinncate.com">Catering@towerinncate.com</a><br />
     <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
 </address>

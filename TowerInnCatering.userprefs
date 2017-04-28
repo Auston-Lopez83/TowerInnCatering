@@ -1,15 +1,11 @@
 ﻿<Properties StartupConfiguration="{BC386F41-A3AE-4290-BAE9-EB502093F5FC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TowerInnCatering/Controllers/MenuController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TowerInnCatering Status">
     <Files>
-<<<<<<< Updated upstream
-      <File FileName="TowerInnCatering/Program.cs" Line="9" Column="24" />
-      <File FileName="TowerInnCatering/Controllers/MenuController.cs" Line="7" Column="2" />
+      <File FileName="TowerInnCatering/Views/Home/Index.cshtml" Line="112" Column="78" />
+      <File FileName="TowerInnCatering/Views/Home/Contact.cshtml" Line="2" Column="56" />
+      <File FileName="TowerInnCatering/Controllers/HomeController.cs" Line="24" Column="10" />
+      <File FileName="TowerInnCatering/Controllers/MenuController.cs" Line="19" Column="30" />
       <File FileName="TowerInnCatering Status" />
-=======
-      <File FileName="TowerInnCatering/Views/Shared/_Layout.cshtml" Line="28" Column="5" />
-      <File FileName="TowerInnCatering/Models/Menu.cs" Line="13" Column="1" />
-      <File FileName="TowerInnCatering/Controllers/MenuController.cs" Line="22" Column="1" />
->>>>>>> Stashed changes
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

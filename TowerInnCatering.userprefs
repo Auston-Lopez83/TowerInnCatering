@@ -1,10 +1,13 @@
 ﻿<Properties StartupConfiguration="{BC386F41-A3AE-4290-BAE9-EB502093F5FC}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="TowerInnCatering Status">
     <Files>
-      <File FileName="TowerInnCatering/Views/Home/Index.cshtml" Line="112" Column="78" />
-      <File FileName="TowerInnCatering/Views/Home/Contact.cshtml" Line="2" Column="56" />
-      <File FileName="TowerInnCatering/Controllers/HomeController.cs" Line="24" Column="10" />
-      <File FileName="TowerInnCatering/Controllers/MenuController.cs" Line="19" Column="30" />
+      <File FileName="TowerInnCatering/Models/Product.cs" Line="7" Column="39" />
+      <File FileName="TowerInnCatering/Models/IProductRepository.cs" Line="8" Column="30" />
+      <File FileName="TowerInnCatering/Models/FakeProductRepository.cs" Line="13" Column="1" />
+      <File FileName="TowerInnCatering/Startup.cs" Line="35" Column="30" />
+      <File FileName="TowerInnCatering/Controllers/ProductController.cs" Line="12" Column="63" />
+      <File FileName="TowerInnCatering/Views/Shared/_Layout.cshtml" Line="29" Column="26" />
+      <File FileName="TowerInnCatering/Views/Product/List.cshtml" Line="3" Column="4" />
       <File FileName="TowerInnCatering Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>

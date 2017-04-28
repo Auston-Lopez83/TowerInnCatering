@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{BC386F41-A3AE-4290-BAE9-EB502093F5FC}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="TowerInnCatering Status">
     <Files>
-      <File FileName="TowerInnCatering/Views/Home/Contact.cshtml" Line="54" Column="64" />
-      <File FileName="TowerInnCatering/Views/Shared/_Layout.cshtml" Line="47" Column="18" />
+      <File FileName="TowerInnCatering/Views/Home/Contact.cshtml" Line="72" Column="23" />
+      <File FileName="TowerInnCatering/Views/Home/About.cshtml" Line="3" Column="17" />
       <File FileName="TowerInnCatering Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>

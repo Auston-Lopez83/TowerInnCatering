@@ -3,6 +3,8 @@
 }
 <h2>@ViewData["Title"].</h2>
 <!-- web form for -->
+<dir class="col-md-12">
+<div class="col-md-6">
 <div class="container">
   <form>
     <div class="form-group row">
@@ -16,30 +18,44 @@
       <div class="col-sm-10">
         <input type="Email" class="form-control" id="inputEmail" placeholder="Email@example.com">
       </div>
-		</div>
-		<div class="form-group row">
+	</div>
+	<div class="form-group row">
       <label for="inputPhone" class="col-sm-2 col-form-label">Phone</label>
       <div class="col-sm-10">
         <input type="Phone" class="form-control" id="inputPhone" placeholder="XXX.XXX.XXXX">
       </div>
-			</div>
-		<div class="form-group row">
+	</div>
+	<div class="form-group row">
       <label for="inputEventDate" class="col-sm-2 col-form-label">Event Date</label>
       <div class="col-sm-10">
         <input type="Date" class="form-control" id="inputEventDate" placeholder="MM/DD/YYYY">
       </div>
-		
+	</div>				
+	<div class="form-group row">
+      <label for="inputPartySize" class="col-sm-2 col-form-label">Party Size</label>
+      <div class="col-sm-10">
+        <input type="string" class="form-control" id="inputPartySize" placeholder="">
+	  </div>
     </div>
+    <div class="form-group row">
+      <label for="inputOccasion" class="col-sm-2 col-form-label">Occasion</label>
+      <div class="col-sm-10">
+        <input type="string" class="form-control" id="inputOccasion" placeholder="">
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="inputMessage" class="col-sm-2 col-form-label">Message / Specal Accomdations</label>
+      <div class="col-sm-10">
+        <textarea type="string" class="form-control" id="inputMessage" placeholder="" rows="3"> </textarea>
+      </div>
+    </div>	
    <div class="form-group row">
       <div class="offset-sm-2 col-sm-10">
-        <button type="submit" class="btn btn-primary">Sign in</button>
+        <button type="submit" class="btn btn-primary">Send Info</button>
       </div>
     </div>
   </form>
-</div>
-
-
-<address>
+		<address>
     701 W. Cross St<br />
     Ypsilanti, MI 48197<br />
     <abbr title="Phone">P:</abbr>
@@ -50,3 +66,15 @@
     <strong>Catering:</strong> <a href="mailto:Catering@towerinncate.com">Catering@towerinncate.com</a><br />
     <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
 </address>
+</div>
+	</div>
+<dir class="col-md-3">
+	<h4>
+		To schedule an onsite catering consultation or visit please click the calendar button below or call Tony or Nathalie at  734-487-4000
+	</h4>
+		<button type="button" class="btn btn-secondary">Schedule a Catering Consultation</button>
+</dir>
+</dir>
+
+
+

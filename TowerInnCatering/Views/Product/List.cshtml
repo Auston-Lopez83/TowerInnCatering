@@ -1,12 +1,16 @@
-﻿@model IEnumerable<Product>
+﻿@model IEnumerable<TowerInnCatering.Models.Product>
 @{
     Layout = "_Layout";
 }
-<h1>Hello World</h1>
+<h1>The Menu</h1>
+
 
 @foreach (var p in Model) {
+
     <div>
-        <h3>@p.Name</h3>
-        <h4>@p.Price.ToString("c")</h4>
-</div> }
+        <h4>@p.Name: @($"{p.Price:C2}")</h4>
+
+	</div>
+
+}
 

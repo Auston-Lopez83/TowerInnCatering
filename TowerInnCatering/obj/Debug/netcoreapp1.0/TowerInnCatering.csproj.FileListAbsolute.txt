@@ -1,0 +1,10 @@
+/Users/Mrpowerz83/Projects/TowerInnCatering/TowerInnCatering/bin/Debug/netcoreapp1.0/TowerInnCatering.deps.json
+/Users/Mrpowerz83/Projects/TowerInnCatering/TowerInnCatering/bin/Debug/netcoreapp1.0/TowerInnCatering.runtimeconfig.json
+/Users/Mrpowerz83/Projects/TowerInnCatering/TowerInnCatering/bin/Debug/netcoreapp1.0/TowerInnCatering.runtimeconfig.dev.json
+/Users/Mrpowerz83/Projects/TowerInnCatering/TowerInnCatering/bin/Debug/netcoreapp1.0/TowerInnCatering.dll
+/Users/Mrpowerz83/Projects/TowerInnCatering/TowerInnCatering/bin/Debug/netcoreapp1.0/TowerInnCatering.pdb
+/Users/Mrpowerz83/Projects/TowerInnCatering/TowerInnCatering/obj/Debug/netcoreapp1.0/TowerInnCatering.csprojResolveAssemblyReference.cache
+/Users/Mrpowerz83/Projects/TowerInnCatering/TowerInnCatering/obj/Debug/netcoreapp1.0/TowerInnCatering.csproj.CoreCompileInputs.cache
+/Users/Mrpowerz83/Projects/TowerInnCatering/TowerInnCatering/obj/Debug/netcoreapp1.0/TowerInnCatering.AssemblyInfo.cs
+/Users/Mrpowerz83/Projects/TowerInnCatering/TowerInnCatering/obj/Debug/netcoreapp1.0/TowerInnCatering.dll
+/Users/Mrpowerz83/Projects/TowerInnCatering/TowerInnCatering/obj/Debug/netcoreapp1.0/TowerInnCatering.pdb

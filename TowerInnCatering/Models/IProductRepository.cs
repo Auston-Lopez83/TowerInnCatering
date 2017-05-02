@@ -5,6 +5,7 @@ namespace TowerInnCatering.Models
 {
     public interface IProductRepository
     {
-        IEnumerable<Product> Products { get; }
+        List<Product> Products { get; }
+        List<Fish> Fishs { get; }
     }
 }

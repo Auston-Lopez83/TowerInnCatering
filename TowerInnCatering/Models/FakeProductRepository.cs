@@ -13,10 +13,10 @@ namespace TowerInnCatering.Models
             new Product { Name = "Pizza and Pasta Buffet", Description = "Your choice of gourmet pizzas, pastas, garlic breadsticks, and cinnamon twists.", Price = 9M,Image =""},
 
         };
-        public List<Fish> Fishs => new List<Fish>
-        {
-            new Fish { Name = "Chicken and Pasta", Description = "Ritz Dijon Chicken, BBQ Chicken, Chicken Piccata, your choice of two pastas, and fresh baked bread.", Price = 10M, Image = "~/images/banner1.jpg"},
+        //public List<Fish> Fishs => new List<Fish>
+        //{
+        //    new Fish { Name = "Chicken and Pasta", Description = "Ritz Dijon Chicken, BBQ Chicken, Chicken Piccata, your choice of two pastas, and fresh baked bread.", Price = 10M, Image = "~/images/banner1.jpg"},
 
-        };
+        //};
     }
 }

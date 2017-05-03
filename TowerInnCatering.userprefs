@@ -2,10 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="TowerInnCatering Status">
     <Files>
       <File FileName="TowerInnCatering/Models/FakeProductRepository.cs" Line="23" Column="1" />
-      <File FileName="TowerInnCatering/Views/Home/About.cshtml" Line="11" Column="14" />
-      <File FileName="TowerInnCatering/Views/Product/List.cshtml" Line="1" Column="44" />
-      <File FileName="TowerInnCatering/Models/Product.cs" Line="11" Column="22" />
-      <File FileName="TowerInnCatering/Models/IProductRepository.cs" Line="12" Column="1" />
+      <File FileName="TowerInnCatering/Views/Product/List.cshtml" Line="15" Column="20" />
       <File FileName="TowerInnCatering Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>

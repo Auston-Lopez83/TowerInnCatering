@@ -6,6 +6,6 @@ namespace TowerInnCatering.Models
     public interface IProductRepository
     {
         List<Product> Products { get; }
-        List<Fish> Fishs { get; }
+        //List<Fish> Fishs { get; }
     }
 }

@@ -1,14 +1,18 @@
 ﻿<Properties StartupConfiguration="{BC386F41-A3AE-4290-BAE9-EB502093F5FC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TowerInnCatering Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TowerInnCatering/Models/FakeProductRepository.cs">
     <Files>
-      <File FileName="TowerInnCatering/Models/FakeProductRepository.cs" Line="14" Column="35" />
-      <File FileName="TowerInnCatering Status" />
+      <File FileName="TowerInnCatering/Views/Product/List.cshtml" Line="1" Column="1" />
+      <File FileName="TowerInnCatering/Views/Home/Contact.cshtml" Line="1" Column="1" />
+      <File FileName="TowerInnCatering/Controllers/HomeController.cs" Line="35" Column="1" />
+      <File FileName="TowerInnCatering/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="TowerInnCatering/Models/FakeProductRepository.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TowerInnCatering PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

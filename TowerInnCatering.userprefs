@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{BC386F41-A3AE-4290-BAE9-EB502093F5FC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TowerInnCatering Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TowerInnCatering/Models/FakeProductRepository.cs">
     <Files>
       <File FileName="TowerInnCatering/Models/FakeProductRepository.cs" Line="23" Column="1" />
       <File FileName="TowerInnCatering/Views/Product/List.cshtml" Line="15" Column="20" />
-      <File FileName="TowerInnCatering Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
